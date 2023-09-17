@@ -13,7 +13,7 @@ GitHub. HW_2
 4. Запушить структуру багрепорта на внешний репозиторий git push origin bagreport
 5. Вмержить ветку Bag Reports в Main - git merge bagreport
 6. Запушить main на внешний репозиторий. git push origin main
-7. В ветке CheckLists набросать структуру чек листа. - 
-8. Запушить структуру на внешний репозиторий
-9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
-10. Синхронизировать Внешнюю и Локальную ветки Main
+7. В ветке CheckLists набросать структуру чек листа. - +
+8. Запушить структуру на внешний репозиторий - git push origin checklists
+9. На внешнем репозитории сделать Pull Request ветки CheckLists в main - +
+10. Синхронизировать Внешнюю и Локальную ветки Main - git pull
